@@ -1,0 +1,43 @@
+{
+    "name": "eagle-plugin-lottie-json-converter",
+    "version": "1.0.0",
+    "description": "Eagle Lottie JSON 转 dotLottie 工具",
+    "type": "module",
+    "author": {
+        "name": "Pecasha",
+        "email": "chihai@pecasha.com",
+        "url": "https://pecasha.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pecasha/eagle-plugin-lottie-json-converter.git"
+    },
+    "scripts": {
+        "dev": "vite dev",
+        "build": "vite build",
+        "preview": "vite preview",
+        "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+        "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+        "up": "pnpm update -i --latest"
+    },
+    "dependencies": {
+        "@dotlottie/dotlottie-js": "^0.7.2"
+    },
+    "devDependencies": {
+        "@sveltejs/adapter-static": "^3.0.2",
+        "@sveltejs/kit": "^2.5.18",
+        "@sveltejs/vite-plugin-svelte": "^3.1.1",
+        "@types/node": "^20.14.10",
+        "flowbite": "^2.4.1",
+        "flowbite-svelte": "^0.46.14",
+        "flowbite-svelte-icons": "^1.6.1",
+        "i18next": "^23.11.5",
+        "less": "^4.2.0",
+        "postcss": "^8.4.39",
+        "svelte": "^4.2.18",
+        "svelte-check": "^3.8.4",
+        "tslib": "^2.6.3",
+        "typescript": "^5.5.3",
+        "vite": "^5.3.3"
+    }
+}

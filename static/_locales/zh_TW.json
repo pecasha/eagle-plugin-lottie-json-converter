@@ -1,0 +1,12 @@
+{
+    "manifest": {
+        "app": {
+            "name": "LottieJSON 轉 dotLottie 工具"
+        }
+    },
+    "page": {
+        "select": "選擇文件",
+        "change": "轉 換",
+        "count": "{COUNT} 個文件"
+    }
+}

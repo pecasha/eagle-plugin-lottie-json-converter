@@ -1,0 +1,30 @@
+{
+    "id": "cb475256-d116-450f-b2bb-3f1e4bd6f082",
+    "version": "1.0.0",
+    "platform": "all",
+    "arch": "all",
+    "name": "{{manifest.app.name}}",
+    "logo": "/logo.png",
+    "keywords": ["Lottie", "dotLottie"],
+    "fallbackLanguage": "zh_CN",
+    "languages": [
+        "de_DE",
+        "en",
+        "es_ES",
+        "ja_JP",
+        "ko_KR",
+        "ru_RU",
+        "zh_CN",
+        "zh_TW"
+    ],
+    "main": {
+        "url": "index.html",
+        "width": 360,
+        "height": 100,
+        "fullscreenable": false,
+        "maximizable": false,
+        "resizable": false,
+        "frame": false,
+        "opacity": 0
+    }
+}

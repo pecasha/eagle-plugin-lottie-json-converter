@@ -1,0 +1,12 @@
+{
+    "manifest": {
+        "app": {
+            "name": "LottieJSON 에서 dotLottie 변환기"
+        }
+    },
+    "page": {
+        "select": "파일 선택",
+        "change": "변 환",
+        "count": "파일 {COUNT}개"
+    }
+}

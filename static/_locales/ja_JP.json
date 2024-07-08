@@ -1,0 +1,12 @@
+{
+    "manifest": {
+        "app": {
+            "name": "LottieJSON を dotLottie に変換"
+        }
+    },
+    "page": {
+        "select": "ファイルを選択",
+        "change": "変 換",
+        "count": "{COUNT} ファイル"
+    }
+}

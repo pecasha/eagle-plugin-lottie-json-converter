@@ -1,0 +1,12 @@
+{
+    "manifest": {
+        "app": {
+            "name": "Convertidor de LottieJSON a dotLottie"
+        }
+    },
+    "page": {
+        "select": "Seleccionar Archivo",
+        "change": "Conversión",
+        "count": "{COUNT} archivos"
+    }
+}
